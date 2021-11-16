@@ -1,4 +1,8 @@
-### Hi there 👋
+### Sam Neaves 👋
+
+### I am currently working in ALSPAC at the University of Bristol
+
+### I enjoy learning about AI and life!
 
 <!--
 **samwalrus/samwalrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
